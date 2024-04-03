@@ -1,0 +1,6 @@
+# MacOS Finder fingerprint file
+**/.DS_Store
+# Terraform cache folder and lock file
+**/*.terraform*
+# Terraform local state files
+**/*.tfstate*
